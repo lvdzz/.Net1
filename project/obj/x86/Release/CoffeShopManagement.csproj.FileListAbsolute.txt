@@ -1,0 +1,87 @@
+C:\Users\DELL\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Release\project.exe.config
+C:\Users\DELL\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Release\project.exe
+C:\Users\DELL\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Release\project.pdb
+C:\Users\DELL\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Release\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Release\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\CoffeShopManagement.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\CoffeShopManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\CoffeShopManagement.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.frmAdAccount.resources
+C:\Users\DELL\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.frmAddFood.resources
+C:\Users\DELL\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.Block.resources
+C:\Users\DELL\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.ChangePersional.resources
+C:\Users\DELL\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.frmAdCategory.resources
+C:\Users\DELL\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.frmAdFood.resources
+C:\Users\DELL\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.frmAdTables.resources
+C:\Users\DELL\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.frmLogin.resources
+C:\Users\DELL\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.frmMain.resources
+C:\Users\DELL\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.frmPay.resources
+C:\Users\DELL\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.PlusTable.resources
+C:\Users\DELL\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.Properties.Resources.resources
+C:\Users\DELL\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.ReFood.resources
+C:\Users\DELL\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.ReplaceTable.resources
+C:\Users\DELL\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\CoffeShopManagement.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\CoffeShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.exe
+C:\Users\DELL\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.pdb
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\Quản lý quán Cafe\project\bin\Release\project.exe.config
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\Quản lý quán Cafe\project\bin\Release\project.exe
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\Quản lý quán Cafe\project\bin\Release\project.pdb
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\Quản lý quán Cafe\project\bin\Release\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\Quản lý quán Cafe\project\bin\Release\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\CoffeShopManagement.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\CoffeShopManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\CoffeShopManagement.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\project.frmAdAccount.resources
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\project.frmAddFood.resources
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\project.Block.resources
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\project.ChangePersional.resources
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\project.frmAdCategory.resources
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\project.frmAdFood.resources
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\project.frmAdTables.resources
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\project.frmLogin.resources
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\project.frmMain.resources
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\project.frmPay.resources
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\project.PlusTable.resources
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\project.Properties.Resources.resources
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\project.ReFood.resources
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\project.ReplaceTable.resources
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\CoffeShopManagement.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\CoffeShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\project.exe
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\project.pdb
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\project\bin\Release\project.exe.config
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\project\bin\Release\project.exe
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\project\bin\Release\project.pdb
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\project\bin\Release\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\project\bin\Release\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\CoffeShopManagement.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\CoffeShopManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\CoffeShopManagement.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\project.frmAdAccount.resources
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\project.frmAddFood.resources
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\project.Block.resources
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\project.ChangePersional.resources
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\project.frmAdCategory.resources
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\project.frmAdFood.resources
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\project.frmAdTables.resources
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\project.frmLogin.resources
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\project.frmMain.resources
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\project.frmPay.resources
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\project.PlusTable.resources
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\project.Properties.Resources.resources
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\project.ReFood.resources
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\project.ReplaceTable.resources
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\CoffeShopManagement.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\CoffeShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\project.exe
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\project.pdb
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\project.ListBill.resources
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\project.Customer.resources
+C:\Users\DELL\Desktop\Quản lý quán Cafe\Quản lý quán Cafe\project\obj\x86\Release\project.Staff.resources
